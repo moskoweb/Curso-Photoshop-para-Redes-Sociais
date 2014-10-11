@@ -11,7 +11,7 @@ Os tópicos abordados serão:
 
 ## Facebook
 
-- Criar Arte da Capa
+- [Criar Capa para Página ou Perfil no Facebook](http://youtu.be/op17ouqzz98)
 - Criar Arte da Foto do Perfil
 - Criar Arte Fundação
 - Criar Imagem para Postagem
