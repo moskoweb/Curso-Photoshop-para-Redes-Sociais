@@ -5,59 +5,64 @@ Olá, seja bem vindo a esse curso de Photoshop Grátis.
 
 ## Sobre o Curso
 
-Nesse curso, estarei ensinando e passando para você algumas dicas de como você produzir conteúdos otimizados para as redes sociais.
+Nesse curso, estarei ensinando como você poderá personalizar suas redes sociais para conseguir tirar um maior aproveito para conseguir melhorar seus resultados e tendo assim um ambiente mais a cara de sua empresa ou perfil nas Redes Sociais.
 
 Os tópicos abordados serão:
 
-## Facebook
+## Redes Sociais
 
-- [Criar Capa para Página ou Perfil no Facebook](http://youtu.be/op17ouqzz98)
-- Criar Arte da Foto do Perfil
-- Criar Arte Fundação
-- Criar Imagem para Postagem
-- Criar Arte para Link Compartilhado
-- Criar Arte para Aplicativos e Miniaturas
-- Criar Arte para Ads
-	- Desktop
-	- Mobile
+### Facebook
 
-## Twitter
+[Clique Aqui e Descubra como você pode Personalizar o **Facebook**](/Como Personalizar seu Facebook/README.md "Facebook")
 
-- Criar Arte da Capa
-- Criar Arte da Foto do Perfil
-- Criar Imagem para Postagem
-- Criar Imagem de Fundo
+### Twitter
 
-## Google
+[Clique Aqui e Descubra como você pode Personalizar o **Twitter**](/Como Personalizar seu Twitter/README.md "Twitter")
 
-### Plus
+### Google Plus
 
-- Criar Arte da Capa
-- Criar Arte da Foto do Perfil
-- Criar Imagem para Postagem
+[Clique Aqui e Descubra como você pode Personalizar o **Google Plus**](/Como Personalizar seu Google Plus/README.md "Google Plus")
+
+### Youtube
+
+[Clique Aqui e Descubra como você pode Personalizar o **Youtube**](/Como Personalizar seu Youtube/README.md "YouTube")
+
+### LinkedIn
+
+[Clique Aqui e Descubra como você pode Personalizar o **LinkedIn**](/Como Personalizar seu LinkedIn/README.md "LinkedIn")
+
+## Anúncios
+
+### Facebook Ads
+
+- Como Criar um Banner Personalizado para **Desktop**
+- Como Criar um Banner Personalizado para **Mobile**
+- Como Criar um Anúncio no Facebook
 
 ### Adwords
 
-#### YouTube
+##### YouTube
 
-- Banner Lateral
-- Banner sobre o Video
+- Como **Criar um Banner de Anúncio par Lateral** de Vídeo
+- Como **Criar um Banner que Fica Sobre o Video**
 
-#### Site
+##### Site
 
-- Arte para Banner
+- Como Criar Banner para Anúncios com Adsense
+- Como Criar Banner na Vertical Para Anúncios
+- Como Criar Banner na Horizontal Para Anúncios
 
 ---
 
 ## Duvidas
 
-Se você tiver alguma dúvida, pode entrar em contato comigo pelo [Facebook](http://facebook.com/AlanWebD) ou por e-mail para [moskoweb@gmail.com](mailto:moskoweb@gmail.com)
+Se você tiver alguma dúvida, pode entrar em contato comigo pelo [Facebook AlanWebD](http://facebook.com/AlanWebD) ou por e-mail para <moskoweb@gmail.com>
 
 ---
 
-Esse curso é para todos. Para que você conheça também  como trabalhar melhor as suas postagens em redes sociais e ate mesmo para seus sites.
+Esse curso é para todos aprenderem como podem trabalhar melhor as suas redes sociais e até mesmo para seus sites.
 
-Muito obrigado por Participar
+Muito Obrigado
 
 Alan Mosko
 Web Designer
