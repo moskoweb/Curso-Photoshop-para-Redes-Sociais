@@ -9,7 +9,7 @@ Cada tarefa é simples, sendo assim, todos tem a capacidade de deixar o **Google
 ---
 ### Video Aulas
 
-1. Como **Criar um Foto para Perfil** do Google Plus
+1. [Como **Criar um Foto para Perfil** do Google Plus](http://youtu.be/VkWvfZiBN1k)
 2. Como **Criar uma Capa Personalizada para o Google Plus**
 3. Como Fazer um Post de Imagem Personalizado no Google Plus
 
